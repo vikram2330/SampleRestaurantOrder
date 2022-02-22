@@ -11,7 +11,6 @@ internal class GetRestaurantListUseCaseImpl @Inject constructor(private val repo
         repository.getRestaurants().fold({ list ->
             return list
         }, {
-            Log.d("getRestaurantList", it.message ?: "error while fetching list")
             return emptyList()
         })
 
