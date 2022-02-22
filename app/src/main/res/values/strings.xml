@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Scoober</string>
+  <string name="menu_search">Search</string>
+  <string name="menu_sort">Sort</string>
+</resources>

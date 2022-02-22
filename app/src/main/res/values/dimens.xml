@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="very_small">2dp</dimen>
+  <dimen name="small">4dp</dimen>
+  <dimen name="height_searchbar">16dp</dimen>
+  <dimen name="size_text">12sp</dimen>
+  <dimen name="size_heading">16sp</dimen>
+  <dimen name="margin_list_view">8dp</dimen>
+</resources>
